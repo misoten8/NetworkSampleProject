@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d3c3375995dd129488156a7236f40953
+timeCreated: 1506296384
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - m_BGMPrefab: {fileID: 1278935618749302, guid: 0862279ae5d980341b25bf686ec31bff,
+      type: 2}
+  - m_SEPrefab: {fileID: 1107666333993914, guid: 3c6294a620e0cfb4e8723bb9af281bb9,
+      type: 2}
+  executionOrder: -1000
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
